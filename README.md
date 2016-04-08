@@ -4,7 +4,7 @@ A simple PHP HTML form generation class.
 Build form inputs quickly in PHP with this this class.
 
 #Example:
-
+```
 use RichTestani\HTML_Form;
 
 include './Form.php';
